@@ -14,7 +14,7 @@ Our Projects:
 2. Donate With PayPal: https://github.com/fireboydev/donate.html/
 
 CheckOut our discord: https://discord.com/invite/a8VEESxxYa
-More Projects coming soon! Next Project is Discord Bot Semi-Completed.
+More Projects coming soon! Next Project is Discord Bot Semi-Completed
 
 Our future website is https://fireboy.dev/ or https://dev.fireboy.me/ or https://dev.fireboy.com.br/
 ```
