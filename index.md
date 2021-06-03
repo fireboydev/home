@@ -1,8 +1,8 @@
 ##FIRE BOY DEVELOPER
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We Are A Community On GitHub Where Our Work Is Develop Bots, Plugins And Ready Codes.
 
-### Projetos
+### Projects
 
 Us Projects Has Here!
 
