@@ -11,16 +11,15 @@ Welcome to FIRE BOY DEVELOPER!
 Our Projects: 
 
 1. [MinesCord Plugin](https://fireboydev.github.io/minescord/)
-2. [Donate With PayPal](https://github.com/fireboydev/donate.html/)
+2. [Donate With PayPal](https://www.paypal.com/donate/?token=8U9wif3bb-Z-pmZ_nMv5Csbze60YTWzHzHydrjdTmE6BnVfmCkoxm4y5BYGh84rXuWXmHMefJDEPsBuW)
+3. [Checkout our discord](https://discord.com/invite/a8VEESxxYa)
 
-[Checkout our discord](https://discord.com/invite/a8VEESxxYa)
-
-More Projects coming soon! Next Project is Discord Bot Semi-Completed
+More Projects coming soon. The Next Project is Discord Bot Semi-Completed.
 
 
 ### Pages
 
-[Home](https://fireboydev.github.io/home/)  |  [Minescord](https://fireboydev.github.io/minescord/)
+[Home](https://fireboy.ml)  |  [Minescord](https://fireboydev.github.io/minescord/)
 
 
 ### Support or Contact
